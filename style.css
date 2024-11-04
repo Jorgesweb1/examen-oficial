@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a:link { text-decoration: none}
+
+
+body{
+    /* padding: 0 200px; */
+    background-image: url(../imagenes/fondo\ 7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.boton-menu{
+
+    border: none;
+}
+
+.navbar .navegador{
+    margin: 0 200px;
+}
+
+.container-color{
+    width: 100%;
+    height: 10px;
+    background-color: #F6D13B;
+}
+
+.navbar-nav .nav-link {
+    background-color: #132D46 !important; /* Cambia este color al que prefieras */
+    color: #ffffff; /* Cambia el color del texto, si es necesario */
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+.hero-container {
+    position: relative;
+    text-align: center;
+}
+
+.img-hero {
+    width: 100%;
+    height: auto;
+}
+
+.hero-title, .hero-subtitle {
+    position: absolute;
+    width: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+}
+
+.hero-title {
+    top: 5%; /* Ajusta la posición vertical */
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 64px;
+    color: #359981;
+}
+
+.hero-subtitle {
+    top: 15%; /* Ajusta la posición vertical */
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    color: #132D46;
+}
+
+.btn-que-hacemos {
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 48px;
+}
+
+.btn-mision {
+    font-family: "Lato", 
+  /* font-weight: 100; */
+  font-style: normal;
+    font-size: 40px;
+}
+
+.btn-vision {
+    font-family: "Lato", 
+  /* font-weight: 100; */
+  font-style: normal;
+    font-size: 40px;
+}
+
+
+.container-lg {
+    position: relative;
+    max-width: 100%;
+}
+
+.image-container {
+    position: relative;
+}
+
+.background-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 128, 0, 0.8); /* Fondo verde semitransparente */
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.btn-que-hacemos {
+    font-size: 1.5em;
+    font-weight: bold;
+    border: none;
+}
+.container-footer{
+    text-align: center;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* ========================= */
+/* ADOPCIONES */
+/* ========================= */
+DSFDSHBFDHSBFSDBFDS
